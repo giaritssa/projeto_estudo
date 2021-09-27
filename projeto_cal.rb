@@ -17,7 +17,6 @@ class Calculadora
             puts "#{n1} - #{n2} = #{@resultado}"
         return @resultado
     end
-
 end
 
 puts "Digite o Numero 1"
